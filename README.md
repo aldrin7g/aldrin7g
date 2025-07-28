@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Edge AI**
 
-- 👨‍💻 All of my projects are available at [aldrin7g@gmail.com](aldrin7g@gmail.com)
+- 👨‍💻 All of my projects are available at ([github](https://github.com/aldrin7g))
 
 - 💬 Ask me about **Bringing Solutions to Human Problems**
 
 - 📫 How to reach me **aldrin7g@gmail.com**
 
-- 📄 Know about my experiences [aldring](aldring)
+- 📄 Know about my experiences ([Resume](https://github.com/aldrin7g/Resume/blob/main/Aldrin_G_Embedded.pdf))
 
 - ⚡ Fun fact **I am Funny**
 
